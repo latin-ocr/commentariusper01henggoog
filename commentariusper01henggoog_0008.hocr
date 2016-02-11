@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./commentariusper01henggoog_0008.png"; bbox 0 0 2856 5028; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 204 1807 1213 1956">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 204 1735 1354 1956">
+     <span class='ocr_line' id='line_1_1' title="bbox 204 1807 1213 1956; baseline 0.001 -48"><span class='ocrx_word' id='word_1_1' title='bbox 204 1807 728 1908; x_wconf 69' lang='lat' dir='ltr'><strong>coMMENTAfflus</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 778 1807 1153 1908; x_wconf 70' lang='lat' dir='ltr'><strong>PERPETuus</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1212 1951 1213 1956; x_wconf 5' lang='grc' dir='ltr'>ψ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 343 2084 1294 2202">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 343 2039 1294 2202">
+     <span class='ocr_line' id='line_1_2' title="bbox 343 2084 1294 2202; baseline -0.008 -50"><span class='ocrx_word' id='word_1_4' title='bbox 343 2087 348 2096; x_wconf 89' lang='grc'><em>·</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 460 2084 892 2152; x_wconf 75' lang='lat' dir='ltr'><strong>INEPISTOLAM</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1076 2185 1085 2202; x_wconf 79' lang='lat'>‚</span> <span class='ocrx_word' id='word_1_7' title='bbox 1287 2175 1294 2198; x_wconf 31' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 266 2309 799 2415">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 266 2309 799 2415">
+     <span class='ocr_line' id='line_1_3' title="bbox 266 2309 799 2415; baseline -0.009 0"><span class='ocrx_word' id='word_1_8' title='bbox 266 2309 274 2322; x_wconf 85' lang='grc'><strong><em>’</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 371 2335 376 2352; x_wconf 79' lang='grc'><em>·</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 558 2325 799 2415; x_wconf 81' lang='lat' dir='ltr'>PAULI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 380 2701 1183 2866">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 380 2701 1183 2866">
+     <span class='ocr_line' id='line_1_4' title="bbox 380 2701 1183 2866; baseline -0.009 -44"><span class='ocrx_word' id='word_1_11' title='bbox 380 2701 967 2825; x_wconf 71' lang='lat' dir='ltr'><strong>PHILIPPENSES]</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1083 2752 1183 2866; x_wconf 87' lang='lat' dir='ltr'><strong> .</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1432 5028">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1432 5028">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1432 5028; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1432 5028; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
